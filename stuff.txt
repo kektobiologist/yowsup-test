@@ -1,0 +1,19 @@
+numbers: 9205491923
+         9205602554
+
+
+mcc: 404, mnc: 10
+
+9205491923 registered (yowsup-cli registration -r sms -m 404 -n 10 -p 919205491923 --cc 91). response:
+
+status: ok
+kind: free
+pw: Diyl/Y9Hg576+kClcHpWBVDmvbU=
+price: ₹ 55
+price_expiration: 1471142410
+currency: INR
+cost: 55.00
+expiration: 4444444444.0
+login: 919205491923
+type: new
+
